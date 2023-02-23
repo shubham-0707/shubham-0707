@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/shubham0707_11" target="blank"><img src="https://img.shields.io/twitter/follow/shubham0707_11?logo=twitter&style=for-the-badge" alt="shubham0707_11" /></a> </p>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/shubham-0707/Chat-App-using-Java-Swing)
+- 🔭 I’m currently working on [Backend Development with SpringBoot]
 
-- 🌱 I’m currently learning **Java Swing and JavaFX library**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 👯 I’m looking to collaborate on [Covid-19 Cases Detection Using Supervised Learning](https://github.com/shubham-0707/Detection-of-covid-19-cases-using-Supervised-Learning)
+- 👯 I’m looking to collaborate on [Advance DSA with Java]
 
-- 🤝 I’m looking for help with [Creating better GUIs using JavaFX and Java Swing](https://github.com/shubham-0707/Chat-App-using-Java-Swing)
+- 🤝 I’m looking for help with [Data Analytics and EDW]
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubham-0707](https://github.com/shubham-0707)
 
-- 💬 Ask me about **Data Structures and Algorithms using Java, C++ , Python , Android**
+- 💬 Ask me about **Data Structures and Algorithms , Java, Python , SpringBoot , Hibernate , Apache Kafka , SQL**
 
 - 📫 How to reach me **shubhamotsav@gmail.com**
 
