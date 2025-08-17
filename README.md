@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">Java Developer ,Tech Enthusiast , Engineering Student looking for Software Developer Roles</h3>
+<h3 align="center">SDE (Android) @ PhonePe | LinkedIn Top Voice 🏆 | Followed by 12K+ curious minds 💬 | 3K+ Readers @ The Code Report 📬 | Ex-InMobi (Glance) | Mentor @ Topmate | Kotlin • Android • DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-0707&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-0707" /> </p>
 
