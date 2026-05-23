@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=600&lines=Shubham+Singh;Android+Engineer+%40+PhonePe;Builder+%7C+Shipper+%7C+Breaker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=600&lines=Shubham+Singh;Android+Engineer+%40+PhonePe;Builder+%7C+Shipper+%7C+Open+Source" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,8 +19,8 @@
 
 - 🏗️ Building large-scale Android systems at **PhonePe** (Kotlin, Compose, MVVM)
 - 🛠️ Shipping Chrome extensions, dev tools & weekend hacks
+- 🌍 Contributing to open source — [Twenty CRM](https://github.com/twentyhq/twenty)
 - ✍️ Writing **The Code Report** — 4K+ readers
-- 🎙️ LinkedIn Top Voice — 14K+ followers
 
 ---
 
@@ -28,15 +28,64 @@
 
 <table>
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="250">
       <a href="https://github.com/shubham-0707/YTPlay">
         <img src="https://img.shields.io/badge/YTPlay-Chrome_Extension-cc0000?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
       <br/>
       <sub>Voice Search + Keyboard Shortcuts for YouTube Music</sub>
     </td>
+    <td align="center" width="250">
+      <a href="https://github.com/shubham-0707/android-build-booster">
+        <img src="https://img.shields.io/badge/Build_Booster-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+      </a>
+      <br/>
+      <sub>Speed up Android builds</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/shubham-0707/matchmate-web">
+        <img src="https://img.shields.io/badge/MatchMate-React_Web_App-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </a>
+      <br/>
+      <sub>IPL Cricket Fan Community App</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/shubham-0707/Resume_Analyzer_using_AI">
+        <img src="https://img.shields.io/badge/Resume_Analyzer-AI_Powered-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
+      <br/>
+      <sub>ATS Score Checker + Resume Customizer</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/shubham-0707/instagram-automation">
+        <img src="https://img.shields.io/badge/IG_Automation-Python-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <br/>
+      <sub>Instagram Automation Scripts</sub>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/shubham-0707/Book_My_Show_Backend_Monolith">
+        <img src="https://img.shields.io/badge/BookMyShow-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      </a>
+      <br/>
+      <sub>Movie Booking Backend (Java + Spring)</sub>
+    </td>
   </tr>
 </table>
+
+---
+
+### 🌍 Open Source
+
+<p>
+  <a href="https://github.com/twentyhq/twenty">
+    <img src="https://img.shields.io/badge/Twenty_CRM-Contributor-4285F4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+> Contributing to [Twenty](https://github.com/twentyhq/twenty) — the open-source alternative to Salesforce, built for AI.
 
 ---
 
@@ -49,12 +98,13 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
 ---
