@@ -1,74 +1,45 @@
-<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">SDE (Android) @ PhonePe | LinkedIn Top Voice 🏆 | Followed by 12K+ curious minds 💬 | 3K+ Readers @ The Code Report 📬 | Ex-InMobi (Glance) | Mentor @ Topmate | Kotlin • Android • DSA</h3>
+# Shubham Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-0707&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-0707" /> </p>
+**Android Engineer @ PhonePe** — building things that ship to 500M+ users by day, shipping side projects by night.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-0707" alt="shubham-0707" /></a> </p>
+I build tools that solve my own problems. If it annoys me more than twice, it becomes a project.
 
-<p align="left"> <a href="https://twitter.com/shubham0707_11" target="blank"><img src="https://img.shields.io/twitter/follow/shubham0707_11?logo=twitter&style=for-the-badge" alt="shubham0707_11" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Backend Development with SpringBoot]
+### Now
 
-- 🌱 I’m currently learning **Data Analytics**
+- Building large-scale Android systems at PhonePe (Kotlin, Jetpack Compose, MVVM)
+- Shipping browser extensions, dev tools, and weekend hacks
+- Writing [The Code Report](https://www.linkedin.com/in/shubham-0707) — 3K+ readers
 
-- 👯 I’m looking to collaborate on [Advance DSA with Java]
+### Recent Ships
 
-- 🤝 I’m looking for help with [Data Analytics and EDW]
+| Project | What it does |
+|---------|-------------|
+| [YTPlay](https://github.com/shubham-0707/YTPlay) | Voice search + keyboard shortcuts for YouTube Music (Chrome Extension) |
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubham-0707](https://github.com/shubham-0707)
+### Stack
 
-- 💬 Ask me about **Data Structures and Algorithms , Java, Python , SpringBoot , Hibernate , Apache Kafka , SQL**
+```
+Day job:      Kotlin • Android • Jetpack Compose • MVVM • Dagger/Hilt • Coroutines
+Side quests:  JavaScript • Chrome Extensions • Python • Web Speech API
+Infra:        Firebase • GCP • CI/CD • Gradle
+Also:         Java • SQL • Git • System Design
+```
 
-- 📫 How to reach me **shubhamotsav@gmail.com**
+### Numbers
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-0707" height="30" width="40" /></a>
-<a href="https://twitter.com/shubham0707_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham0707_11" height="30" width="40" /></a>
-<a href="https://discord.gg/KXxNtk9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubham0707#8481" height="30" width="40" /></a>
-<a href="https://instagram.com/_.goldiiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.goldiiee" height="30" width="40" /></a>  
+- 12K+ followers on LinkedIn
+- 500M+ users on apps I've contributed to
+- 3K+ newsletter readers
+
+---
+
+<p>
+  <a href="https://linkedin.com/in/shubham-0707"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/shubham0707_11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://shubham-0707.github.io"><img src="https://img.shields.io/badge/Website-0f0f0f?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://medium.com/@shubhamsinghlmp578"><img src="https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white" /></a>
 </p>
-<a href="https://stackoverflow.com/users/14477484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14477484" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhamsinghlmp578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamsinghlmp578" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhamsinghlmp578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamsinghlmp578" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<shubhamsinghlmp578>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<shubhamsinghlmp578>" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhamsinghlmp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamsinghlmp1" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubhamotsav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamotsav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shubham_0707" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubham_0707" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shubham_0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shubham_0707" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shubhamotsav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shubhamotsav" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/shubhamotsav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="shubhamotsav" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-0707&show_icons=true&locale=en&layout=compact" alt="shubham-0707" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-0707&show_icons=true&locale=en" alt="shubham-0707" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-0707&" alt="shubham-0707" /></p>
-<p><a href="https://www.buymeacoffee.com/shubhamotsav"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhamotsav" /></a></p><br><br>
-
-
+<sub>If you're reading this at 2 AM — same. Let's build something.</sub>
